@@ -35,7 +35,7 @@ fn main() {
     // Heap content is not copied
     // s1 goes out of scope once s2 points to memory on Heap!!!!
     let s2 = s1;  // basically s1 was moved into s2
-
+    println!("{}", s2);
     // can't access s1 again -- compile-time error
     // println!("{}", s1);
 
