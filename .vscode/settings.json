@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./ownership3/Cargo.toml"
+        "./ownership3/Cargo.toml",
+        "./structs/Cargo.toml"
     ]
 }
