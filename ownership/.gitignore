@@ -1,0 +1,16 @@
+# Ignore compiled binary files and executables
+/target/
+*.rs.bk
+
+# Ignore IDE or editor-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore build artifacts, logs, and temporary files
+Cargo.lock
+.env
+.log
+*.log
+*.swp
