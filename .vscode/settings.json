@@ -4,5 +4,6 @@
         "./structs/Cargo.toml",
         "./struct_example_program/Cargo.toml",
         "./enums/Cargo.toml",
+        "./match_control_flow/Cargo.toml",
     ]
 }
