@@ -7,5 +7,6 @@
         "./match_control_flow/Cargo.toml",
         "./vectors/Cargo.toml",
         "./strings/Cargo.toml",
+        "./hashmaps/Cargo.toml",
     ]
 }
