@@ -8,5 +8,6 @@
         "./vectors/Cargo.toml",
         "./strings/Cargo.toml",
         "./hashmaps/Cargo.toml",
+        "./generics/Cargo.toml",
     ]
 }
