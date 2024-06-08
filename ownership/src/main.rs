@@ -31,6 +31,7 @@ fn main() {
     // a length, and a capacity ----- this all group of data is stored on stack
     // on Heap -> actual content is stored
     let s1 = String::from("Hello");
+    
     // Here, String data on Stack is copied and allocated to s2
     // Heap content is not copied
     // s1 goes out of scope once s2 points to memory on Heap!!!!

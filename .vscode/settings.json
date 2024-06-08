@@ -9,5 +9,6 @@
         "./strings/Cargo.toml",
         "./hashmaps/Cargo.toml",
         "./generics/Cargo.toml",
+        "./traits/Cargo.toml",
     ]
 }
